@@ -1,0 +1,13 @@
+Jerusalem	936425
+Tel Aviv	460613
+Haifa	285316
+Rishon_LeZion	254384
+Petah_Tikva	247956
+Ashdod	225939
+Netanya	221353
+Beersheba	209687
+Bnei_Brak	204639
+Holon	196282
+Ramat_Gan	163480
+Ashkelon	144073
+Rehovot	143904
